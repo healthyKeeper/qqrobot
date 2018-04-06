@@ -9,6 +9,7 @@ public class MsgSendServiceImpl implements MsgSendService {
 
 	@Override
 	public boolean sendMessge(String qqNumber, String message) {
+		System.out.println("测试下qq发送消息");
 		return true;
 	}
 }
