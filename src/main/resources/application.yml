@@ -3,5 +3,5 @@ spring:
     name: qqrobot
   profiles:
     active: dev
-#autoit的位置
+#autoit的位置（模拟QQ聊天窗口里给好友发消息的操作）
 command: test
